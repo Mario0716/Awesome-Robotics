@@ -13,4 +13,4 @@
 ## Waiting List
 |Title📖    |Year🧓 |Status🪣  |
 |:---------|:---------|:---------|
-|RLBench: The Robot Learning Benchmark & Learning Environment||||
+|RLBench: The Robot Learning Benchmark & Learning Environment|2020|⌛️|
