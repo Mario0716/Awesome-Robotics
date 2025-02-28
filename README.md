@@ -9,7 +9,7 @@
 |Explaining and Harnessing Adversarial Examples|ICLR2015|首次提出了对抗样本问题，并提出了通过对抗训练来提高模型鲁棒性的思路，以及模型可以通过对抗训练，正则化，梯度裁剪和数据增强等方法消除noise的影响|经典👍，伟大无需多言|
 |Dream to Manipulate: Compositional World Models Empowering Robot Imitation Learning with Imagination|ICLR2025|文章的主要工作包括：<br>使用高斯泼溅 object-centric Gaussian Splatting 生成3D目标物的表征; <br>从相机中获取的视频处理成帧后，进行图像分割操作; <br>利用物理引擎PyBullet预测模型在真实环境中的后续动作; <br> 对demonstration进行等变变换（Equivariant Transformations）来帮助机器人生成imagination;  |说实话，给我看的云里雾里的。文章后面的等变变换不就是数据增强吗？经过高斯泼溅生成的object representation已经有点抽象了，真的有用吗？作者的motivation可以理解，无非是针对IL的短板去丰富样本集。|
 |Diffusion Policy: Visuomotor Policy Learning via Action Diffusion| RSS2023|在视觉-运动控制任务中，文章基于强化学习的框架使用扩散模型生成robot动作序列，逐步优化生成的动作轨迹以获得连续、平滑的动作轨迹，对于策略优化部分采用了逆强化学习（Inverse Reinforcement Learning）的思想；图像特征提取就是传统的CNN-Based和Transformer-Based；|Diffusion结合Action，这个方法确实是获得连续且平滑动作序列的不错方式|
-|Efficient Reductions for Imitation Learning|arxiv|为了简化模仿学习任务，文章提出了三种简化方法，<br>将学习任务拆分成两部分，第一部分在低维度空间内进行预训练，第二部分在高维度状态和动作空间进行优化 <br>探索和优化结合 <br>减少奖励函数 <br>结合转移学习，减少学习所需的专家演示数量，让IL学习之前任务已经学到的知识||
+|Efficient Reductions for Imitation Learning|arxiv|为了简化模仿学习任务，文章提出了几种简化方法，<br>将学习任务拆分成两部分，第一部分在低维度空间内进行预训练，第二部分在高维度状态和动作空间进行优化 <br>探索和优化结合 <br>减少奖励函数 <br>结合转移学习，减少学习所需的专家演示数量，让IL学习之前任务已经学到的知识||
 
 ## Waiting List
 |Title📖    |Year🧓 |Status🪣  |
