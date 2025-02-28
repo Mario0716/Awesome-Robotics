@@ -18,3 +18,4 @@
 |3d gaussian splat- ting for real-time radiance field rendering|2023|🙏|
 |Robodreamer: Learning compositional world models for robot imagination|2024|🙏|
 |Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025 Oral|⌛️|
+|Open X-Embodiment: Robotic Learning Datasets and RT-X Models|2023|⌛️|
