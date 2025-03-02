@@ -23,3 +23,12 @@
 |VQ-BeT: Behavior generation with latent actions|ICML2024|⌛️Policy Leaning|
 |UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|⌛️Data Collection|
 |ALOHA: Learning Fine Grained Bimanual Manipulation with Low-Cost Hardware|RSS2023|⌛️Policy Learning & Data Collecyion|
+
+
+## ROS🤖
+I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili.com/video/BV1BP4y1o7pw) on Bilibili website.
+
+Completion: 10/77 ⌛️
+
+## Simulator💻
+Considering the complexity of differnt simulators, choose [MUJOCO](https://github.com/google-deepmind/mujoco) as the first step to help me test robot(Galaxea A1 and Franka Research 3). Maybe, [Nvidia Issac Gym for C++/Python](https://developer.nvidia.com/isaac-gym) and [Drake for C++/Python](https://drake.mit.edu/) are also good choice.
