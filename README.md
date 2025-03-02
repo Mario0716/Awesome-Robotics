@@ -22,3 +22,4 @@
 |Open X-Embodiment: Robotic Learning Datasets and RT-X Models|Dataset2023|⌛️|
 |VQ-BeT: Behavior generation with latent actions|ICML2024|Policy Leaning⌛️|
 |UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|Data Collection⌛️|
+|ALOHA: Learning Fine Grained Bimanual Manipulation with Low-Cost Hardware|RSS2023|Policy Learning & Data Collecyion⌛️｜
