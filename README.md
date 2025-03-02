@@ -31,4 +31,4 @@ I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili
 Completion: 10/77 ⌛️
 
 ## Simulator💻
-Considering the complexity of differnt simulators, choose [MUJOCO](https://github.com/google-deepmind/mujoco) as the first step to help me test robot(Galaxea A1 and Franka Research 3). Maybe, [Nvidia Issac Gym for C++/Python](https://developer.nvidia.com/isaac-gym) and [Drake for C++/Python](https://drake.mit.edu/) are also good choice.
+Considering the complexity of differnt simulators, choose [MUJOCO](https://github.com/google-deepmind/mujoco) as the first step to help me test robot(Galaxea A1 and Franka Research 3). Maybe, [Nvidia Issac Gym for C++/Python](https://developer.nvidia.com/isaac-gym) and [Drake for C++/Python](https://drake.mit.edu/) are also good choice. Besides, we can learn about introduction and basic knowledge about MUJOCO from [Prof.Wei Zhang, SUSTech](https://www.bilibili.com/video/BV1wPyfYHEmE).
