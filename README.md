@@ -14,11 +14,11 @@
 ## Waiting List
 |Title📖    |Year🧓 |Status🪣  |
 |:---------|:---------|:---------|
-|RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020|⌛️|
+|RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020|Robo Benchmark⌛️|
 |Rvt-2: Learning precise manipulation from few demonstrations|2024|🙏|
-|3d gaussian splat- ting for real-time radiance field rendering|2023|🙏|
-|Robodreamer: Learning compositional world models for robot imagination|2024|🙏|
-|Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025 Oral|⌛️|
-|Open X-Embodiment: Robotic Learning Datasets and RT-X Models|2023|⌛️|
-|VQ-BeT: Behavior generation with latent actions|ICML2024|⌛️|
-|UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|⌛️|
+|3d gaussian splatting for real-time radiance field rendering|2023|Generation🙏|
+|Robodreamer: Learning compositional world models for robot imagination|2024|World Model🙏|
+|Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025 Oral|Imitation Learning⌛️|
+|Open X-Embodiment: Robotic Learning Datasets and RT-X Models|Dataset2023|⌛️|
+|VQ-BeT: Behavior generation with latent actions|ICML2024|Policy Leaning⌛️|
+|UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|Data Collection⌛️|
