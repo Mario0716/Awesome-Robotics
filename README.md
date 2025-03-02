@@ -20,3 +20,5 @@
 |Robodreamer: Learning compositional world models for robot imagination|2024|🙏|
 |Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025 Oral|⌛️|
 |Open X-Embodiment: Robotic Learning Datasets and RT-X Models|2023|⌛️|
+|VQ-BeT: Behavior generation with latent actions|ICML2024|⌛️|
+|UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|⌛️｜
