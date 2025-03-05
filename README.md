@@ -14,6 +14,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |Supervised Policy Learning for Real Robots|RSS 2024 Tutorial|Start Simple.|1✅,2⌛️,3⌛️,4✅|
 |Hierachical Diffusion Policy: manipulation trajectory generation via contact guidance|arxiv|文章提出了一个分层扩撒策略，一共两个层次：高层负责接触规划，底层负责轨迹生成;按照这个思想，文章设计了三个模块，分别为Guider，Critic和Actor，前两个分别负责提供robot接触位置和判断当前动作序列的Q值，动作执行模型则负责生成T时间段内的动作序列并传递给Critic，由Crtic筛选出短期步长内的动作执行动作，从而避免“很久以前的动作”对后续动作产生的影响；对于数据处理，文章将感知输入编码为点云形式，作为robot当前的状态输入。|逐步train three networks是不是有点难顶；文章在设计目标物接触位置/路线的时候使用人工标定的方式作为prompt|
 |VQ-BeT: Behavior generation with latent actions|ICML2024|文章针对Behavior Transformer（BeT）关于k值选取和对高维或长序列所导致的梯度缺失问题，在第一阶段沿用了VQ-VAE中的量化向量编码-解码思想，完成动作序列编码-解码的任务；此外，在第二阶段引入了MiniGPT来进行编码预测（Code Prediction head）和偏离纠正（Offset head），来帮助重构采样动作序列。VQ-BeT在实验效果和执行效率上都有着不错的表现。|在实验部分，为什么Goal-Conditional behavior generation效果还要更差一些呢？反而是Unconditional behavior generation的效果在 5 of 6 tasks表现的都很好。文章中未给出模型参数量的比较，但是可以推测到：VQ-BeT的参数量应该是（远）大于Diffusion Policy等算法的，空间换时间的经典操作|
+|Rvt-2: Learning precise manipulation from few demonstrations|RSS2024|||
 
 ## Waiting List
 |Title📖    |Year🧓 |Status🪣  |
