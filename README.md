@@ -11,6 +11,7 @@
 |Diffusion Policy: Visuomotor Policy Learning via Action Diffusion| RSS2023|在视觉-运动控制任务中，文章基于强化学习的框架使用扩散模型生成robot动作序列，逐步优化生成的动作轨迹以获得连续、平滑的动作轨迹;图像特征提取就是传统的CNN-Based和Transformer-Based，文章中给出的performance都是基于Transformer的；此外还结合了控制理论来帮助理解在简单任务下的局限性；|Diffusion结合Action，这个方法确实是获得连续且平滑动作序列的不错方式，但是推理速度和计算成本应该是有局限性的;（这篇文章看了蛮久...），代码也需要认真解读一下|
 |Supervised Policy Learning for Real Robots|RSS 2024 Tutorial|Start Simple.|1✅,2⌛️,3⌛️,4✅|
 |Hierachical Diffusion Policy: manipulation trajectory generation via contact guidance|arxiv|文章提出了一个分层扩撒策略，一共两个层次：高层负责接触规划，底层负责轨迹生成;按照这个思想，文章设计了三个模块，分别为Guider，Critic和Actor，前两个分别负责提供robot接触位置和判断当前动作序列的Q值，动作执行模型则负责生成T时间段内的动作序列并传递给Critic，由Crtic筛选出短期步长内的动作执行动作，从而避免“很久以前的动作”对后续动作产生的影响；对于数据处理，文章将感知输入编码为点云形式，作为robot当前的状态输入。|逐步train three networks是不是有点难顶；文章在设计目标物接触位置/路线的时候使用人工标定的方式作为prompt|
+|VQ-BeT: Behavior generation with latent actions|ICML2024|||
 
 ## Waiting List
 |Title📖    |Year🧓 |Status🪣  |
