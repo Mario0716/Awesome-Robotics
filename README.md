@@ -41,3 +41,4 @@ Completion: 10/77 ⌛️
 Considering the complexity of differnt simulators, choose [MUJOCO](https://github.com/google-deepmind/mujoco) as the first step to help me test robot(Galaxea A1 and Franka Research 3). Maybe, [Nvidia Issac Sim for C++/Python](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/introduction/quickstart_index.html) and [Drake for C++/Python](https://drake.mit.edu/) are also good choice. Besides, we can learn about introduction and basic knowledge about MUJOCO from [Prof.Wei Zhang, SUSTech](https://www.bilibili.com/video/BV1wPyfYHEmE).
 
 ## Machine Learning & Deep Learning 🏰
+Personally thinking, [Prof.Hung-Yi Lee's ML courses](https://speech.ee.ntu.edu.tw/~hylee/ml/2016-fall.php) are the most outstanding around all of Internet courses✊(If you are from China Mainland, maybe scientic surfing is all you need.🛝)
