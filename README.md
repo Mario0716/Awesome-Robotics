@@ -29,6 +29,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |VQ-BeT: Behavior generation with latent actions|ICML2024|⌛️Policy Leaning➡️03.05✅|
 |UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|⌛️Data Collection|
 |ALOHA: Learning Fine Grained Bimanual Manipulation with Low-Cost Hardware|RSS2023|⌛️Policy Learning & Data Collecyion|
+|Humanoid Locamotion as Next Prediction|NIPS2024 Spotlight|⌛️humanoid Contorl|
 
 
 ## ROS🤖
