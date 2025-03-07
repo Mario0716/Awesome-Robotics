@@ -33,6 +33,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|⌛️Data Collection|
 |ALOHA: Learning Fine Grained Bimanual Manipulation with Low-Cost Hardware|RSS2023|⌛️Policy Learning & Data Collecyion|
 |Humanoid Locamotion as Next Prediction🌟|NIPS2024 Spotlight|⌛️humanoid Contorl|
+|Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems|CoRL2024|⌛️Controller & Bayesian|
 
 
 ## ROS🤖
