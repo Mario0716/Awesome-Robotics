@@ -18,7 +18,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025|作者以图神经为结构，可以简单的理解为GNN+Diffusion Policy，对于得到每个节点的特征部分（不同的节点作用是不同的，分别代表着动作，机器人状态->基本就是夹爪的开关状态，目标物的信息），都要先融合上一个节点的特征，然后再进行K（加噪声）+K（去噪声）步的扩散生成，最后注意力融合周围edge和邻节点特征信息到当前节点；在测试过程中，对其预测夹爪状态（开/关）与Ground Turth，又引入了SVD损失为模型执行动作时加一层保障|先说这个模型的训练过程...这个过程...挺好🙂...可能这样的操作才保证了每个节点特征信息丰富以及模型的zero-shot transfer，(当复习Graph Neural Networks🥱)；用图神经网络去解释上下文学习是有说服力的，毕竟图网络的结构优势在那里摆着|
 |RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020 & RA-L2020|提供了一个标准的robotic learning benchmark，包括强化学习，模仿学习和元学习|直接上手搞，别废话😾|
 |Open X-Embodiment: Robotic Learning Datasets and RT-X Models|arxiv2023-dataset|这篇文章会不会成为未来最大规模的多任务，多机器人的学习数据集我不确定？但应该会是计算机上合作者最众多的一次。|引用张巍老师在课堂上的一句话“未来的趋势是什么？是开源，是派森”🤣|
-|Safe Controller Optimization for Quadrotors with Gaussian Processes|ICRA2016|||
+|Safe Controller Optimization for Quadrotors with Gaussian Processes|ICRA2016|文章是通过数据驱动的方式(GP + SafeOpt)来优化控制器参数，在保障安全的前提下提升控制器的稳定性，适应实时的环境变化||
 
 ## Waiting List
 |Title📖    |Year🧓 |Status🪣  |
