@@ -35,10 +35,10 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |ALOHA: Learning Fine Grained Bimanual Manipulation with Low-Cost Hardware|RSS2023|⌛️Policy Learning & Data Collecyion|
 |Humanoid Locamotion as Next Prediction🌟|NIPS2024 Spotlight|⌛️humanoid Contorl|
 |Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems|CoRL2024|⌛️Controller & Bayesian|
-|On safety in safe bayesian optimization||⌛️Bayesian Optimization|
-|Adaptive and safe bayesian optimization in high dimensions via one- dimensional subspace||⌛️Bayesian Optimization|
-|Meta-learning priors for safe bayesian optimization||⌛️Bayesian Optimization|
-|Relaxing the additivity constraints in decentralized no-regret high-dimensional bayesian optimization||⌛️Bayesian Optimization|
+|On safety in safe bayesian optimization|TMLR2024|⌛️Bayesian Optimization|
+|Adaptive and safe bayesian optimization in high dimensions via one-dimensional subspace|ICML2019|⌛️Bayesian Optimization|
+|Meta-learning priors for safe bayesian optimization|CoRL2022|⌛️Bayesian Optimization|
+|Relaxing the additivity constraints in decentralized no-regret high-dimensional bayesian optimization|ICLR2024|⌛️Bayesian Optimization|
 
 ## ROS🤖
 I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili.com/video/BV1BP4y1o7pw) on Bilibili website.
