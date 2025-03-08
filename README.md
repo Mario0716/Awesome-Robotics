@@ -25,7 +25,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |Title📖    |Year🧓 |Status🪣  |
 |:---------|:---------|:---------|
 |RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020|⌛️Robo Benchmark(Next One...)➡️03.07✅|
-|Rvt-2: Learning precise manipulation from few demonstrations|RSS2024|🙏➡️03.05✅|
+|Rvt-2: Learning precise manipulation from few demonstrations|RSS2024|🙏Manipulation➡️03.05✅|
 |3d gaussian splatting for real-time radiance field rendering|2023|🙏Generation|
 |Robodreamer: Learning compositional world models for robot imagination|2024|🙏World Model|
 |Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025 Oral|⌛️Imitation Learning➡️03.07✅|
