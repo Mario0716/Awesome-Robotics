@@ -19,6 +19,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020 & RA-L2020|提供了一个标准的robotic learning benchmark，包括强化学习，模仿学习和元学习|直接上手搞，别废话😾|
 |Open X-Embodiment: Robotic Learning Datasets and RT-X Models|arxiv2023-dataset|这篇文章会不会成为未来最大规模的多任务，多机器人的学习数据集我不确定？但应该会是计算机上合作者最众多的一次。|引用张巍老师在课堂上的一句话“未来的趋势是什么？是开源，是派森”🤣|
 |Safe Controller Optimization for Quadrotors with Gaussian Processes|ICRA2016-Controller|文章是通过数据驱动的方式(GP + SafeOpt)来优化控制器参数，在保障安全的前提下提升控制器的稳定性，适应实时的环境变化|感觉如何初始化Safe Set 应该是非常重要的‼️|
+|DroneDiffusion: Robust Quadrotor Dynamics Learning with Diffusion Models|ICRA2025|作者使用条件扩散模型来捕捉环境中的确定性干扰（多模态干扰），并引入滑模变量构建混合控制器，融合预测与实时应变能力，帮助无人机在多变的环境中保持飞行和负载稳定||
 |Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems|CoRL2024-Controller & Bayesian|||
 
 ## Waiting List
