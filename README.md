@@ -41,6 +41,8 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |Meta-learning priors for safe bayesian optimization|CoRL2022|⌛️Bayesian Optimization|
 |Relaxing the additivity constraints in decentralized no-regret high-dimensional bayesian optimization|ICLR2024|⌛️Bayesian Optimization|
 |RL-based adaptive controller for high precision reaching in a soft robot arm|T-RO2024|⌛️Controller|
+|Reaching the limit in autonomous racing: Optimal control versus reinforcement learning|Science Robotics 2023|⌛️Control & Optimization|
+|CL-DiffPhyCon: Closed-Loop Diffusion Control of Complex Physical Systems|ICLR2025|⌛️Control|
 
 ## ROS🤖
 I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili.com/video/BV1BP4y1o7pw) on Bilibili website.
