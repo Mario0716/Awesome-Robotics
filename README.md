@@ -56,7 +56,7 @@ Considering the complexity of differnt simulators, choose [MUJOCO](https://githu
 ## Machine Learning & Deep Learning 🏰
 Personally thinking, [Prof.Hung-Yi Lee's ML courses](https://speech.ee.ntu.edu.tw/~hylee/ml/2016-fall.php) are the most outstanding around all of Internet courses✊. There are many interesting Pokémon examples😁 (Now if you are in China Mainland, maybe scientic surfing is all you need.🛝) To Deep Learning, recommand to read *[Deep Learning, written by Ian Goodfellow and Yoshua Bengio and Aaron Courville, MIT Press](https://www.deeplearningbook.org/front_matter.pdf)*, called "花书" in Chinese and practice code skills following *[Deep Learning with Pytorch, written by Eli Stevens and Luca Antiga and Thomas Viehmann](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)*.
 
-## Robotics
+## Robotics💼
  I am learning about basic knowledge of Robotics on [bilibili website](https://www.bilibili.com/video/BV1oa4y1v7TY) *(PS: This is not the offical version)* following [Prof.Pei-Chun Lin, NTU](http://peichunlin.me.ntu.edu.tw/Homepage/greeting.htm).
 
 Introduction✅ $\rightarrow$ Rotation Matrix✅ $\rightarrow$ Transformation Matrix $\rightarrow$ RobotArm Geometry & DH Representation
