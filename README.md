@@ -23,7 +23,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems|CoRL2024-Controller & Bayesian|针对高维采样和优化问题，采用局部乐观安全策略来优化目标函数并扩大安全区域，具有概率安全保证和设定了累计安全违规界限，此外为了优化几千个变量的高纬输入，引入了等距嵌入（一种降维方法，字面意思应该是对高维特征输入进行等距截断）实现特征变换，并完成了临床实验中通过刺激神经成功优化人体运动控制|这篇论文对具深智能系统控制提供了理论支持，尤其是对高维度信息优化。但是由于作者对安全性的乐观预计和高斯过程的 $\mathcal{O}^3$ 复杂度，限制了该算法在未探索领域实现安全决策和影响了计算效率。|
 |Gaussian Process Optimization in the Bandit Setting: No Regret and Experimental Design|ICML2010-GP Optimization|||
 
-## Waiting List
+## Waiting List⛑️
 |Title📖    |Year🧓 |Status🪣  |
 |:---------|:---------|:---------|
 |RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020|⌛️Robo Benchmark(Next One...)➡️03.07✅|
