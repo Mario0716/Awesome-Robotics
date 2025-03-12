@@ -60,3 +60,8 @@ Personally thinking, [Prof.Hung-Yi Lee's ML courses](https://speech.ee.ntu.edu.t
  I am learning about basic knowledge of Robotics on [bilibili website](https://www.bilibili.com/video/BV1oa4y1v7TY) *(PS: This is not the offical version)* following [Prof.Pei-Chun Lin, NTU](http://peichunlin.me.ntu.edu.tw/Homepage/greeting.htm).
 
 Introduction✅ $\rightarrow$ Rotation Matrix✅ $\rightarrow$ Transformation Matrix $\rightarrow$ RobotArm Geometry & DH Representation
+
+## Control🎳
+Basic control algorithm list:
+
+PID✅
