@@ -67,4 +67,4 @@ Introduction✅ $\rightarrow$ Rotation Matrix✅ $\rightarrow$ Transformation Ma
 Basic control algorithm list:
 
 PID✅<br>
-MPC✅（[DR_CAN](https://space.bilibili.com/230105574/channel/collectiondetail?sid=1814749&spm_id_from=333.788.0.0), bilibili📺）
+MPC✅（[DR_CAN, bilibili📺](https://space.bilibili.com/230105574/channel/collectiondetail?sid=1814749&spm_id_from=333.788.0.0)）
