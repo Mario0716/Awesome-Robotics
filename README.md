@@ -70,4 +70,6 @@ PID✅<br>
 MPC✅（[DR_CAN, bilibili📺](https://www.bilibili.com/video/BV1cL411n7KV)）
 
 ## Equipment Setting🧪
-For vision, we select Intel RealSense D435i as the "eyes" of robot.
+In this section, I will record some settings that I have ever made mistakes and validated.
+
+vision： Intel RealSense Depth Camera D435i [Installation on Ubuntu]()
