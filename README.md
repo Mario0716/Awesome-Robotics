@@ -72,5 +72,5 @@ MPC✅（[DR_CAN, bilibili📺](https://www.bilibili.com/video/BV1cL411n7KV)）
 ## Equipment Setting🧪
 In this section, I will record some settings that I have ever made mistakes and validated.
 
-Server:  Nvidia RTX 5080 + AMD R9 7950x, and list of computer component details is here. [link]()<br>
+Server:  Nvidia RTX 5080 + AMD R9 7950x, and list of computer component details is here. [link](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/server_details.md)<br>
 Vision： Intel RealSense Depth Camera D435i [Installation on Ubuntu](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/d435i.md)
