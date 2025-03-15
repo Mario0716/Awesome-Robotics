@@ -1,0 +1,14 @@
+### Lists
+
+|Component|Type|
+|:---:|:---:|
+|CPU|AMD R9 7950X|
+|Mainboard|MSI MPG X670E Carbon|
+|GPU|MSI Geforce RTX5080 16G GAMING TRIO OC|
+|RAM|Kingston Fury DDR5 32G $\times$ 2, 6400MT/s|
+|ROM|Samsung 990pro 2TB + TOSHIBA HDD 2TB|
+|Power|Seasonic VERTEX GX-1200|
+|Radiator|VALKYRIE C480 Liquid Cooling System|
+|Chassis|VALKYRIE VK01|
+
+Total cost: 2.7w RMB and u can follow your budget to change items.
