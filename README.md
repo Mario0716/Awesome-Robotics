@@ -72,4 +72,4 @@ MPC✅（[DR_CAN, bilibili📺](https://www.bilibili.com/video/BV1cL411n7KV)）
 ## Equipment Setting🧪
 In this section, I will record some settings that I have ever made mistakes and validated.
 
-Vision： Intel RealSense Depth Camera D435i [Installation on Ubuntu]()
+Vision： Intel RealSense Depth Camera D435i [Installation on Ubuntu](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/d435i.md)
