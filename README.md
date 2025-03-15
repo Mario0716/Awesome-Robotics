@@ -68,3 +68,6 @@ Basic control algorithm list:
 
 PID✅<br>
 MPC✅（[DR_CAN, bilibili📺](https://www.bilibili.com/video/BV1cL411n7KV)）
+
+## Equipment Setting🧪
+For vision, we select Intel RealSense D435i as the "eyes" of robot.
