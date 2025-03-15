@@ -1,5 +1,5 @@
 ### Lists
-
+Written by *Jiayu Song* in EIAS.
 |Component|Type|
 |:---:|:---:|
 |CPU|AMD R9 7950X|
