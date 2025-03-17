@@ -1,5 +1,6 @@
 ### Lists
 Written by *Jiayu Song* in EIAS.
+
 |Component|Type|
 |:---:|:---:|
 |CPU|AMD R9 7950X|
@@ -10,5 +11,7 @@ Written by *Jiayu Song* in EIAS.
 |Power|Seasonic VERTEX GX-1200|
 |Radiator|VALKYRIE C480 Liquid Cooling System|
 |Chassis|VALKYRIE VK01|
+
+*Interlude: exchange the new C480 Liquid Cooling System from JD because its bolt didn't work*
 
 Total cost: 2.7w RMB and u can follow your budget to change items.
