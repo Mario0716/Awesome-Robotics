@@ -1,7 +1,7 @@
 # Debug & Error
 Written by Jiayu Song
 
-Yesterday all things goes well but there are many bugs about CUDA when i want to run the project in the morning.
+Yesterday everything goes well but there are many bugs about CUDA when i want to run the project in the morning.
 ```
 RuntimeError: CUDA unknown error - this may be due to an incorrectly set up environment, e.g. changing env variable CUDA_VISIBLE_DEVICES after program start. Setting the available devices to be zero.
 ```
