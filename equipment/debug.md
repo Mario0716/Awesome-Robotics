@@ -1,4 +1,4 @@
-# Debug & Error
+# Debug & Error 🔧
 Written by Jiayu Song
 
 Yesterday everything goes well but there are many bugs about CUDA when i want to run the project in the morning.
