@@ -52,6 +52,8 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |RL-based adaptive controller for high precision reaching in a soft robot arm|T-RO2024|⌛️Controller➡️03.12 video✅|
 |Reaching the limit in autonomous racing: Optimal control versus reinforcement learning|Science Robotics 2023|⌛️Control & Optimization|
 |CL-DiffPhyCon: Closed-Loop Diffusion Control of Complex Physical Systems|ICLR2025|⌛️Control|
+|OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding|NIPS2023|⌛️3D Representation Learning|
+
 
 ## ROS🤖
 I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili.com/video/BV1BP4y1o7pw) on Bilibili website.
