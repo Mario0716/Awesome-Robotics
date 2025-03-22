@@ -12,8 +12,8 @@ Written by *Jiayu Song* in EIAS.
 |Radiator|VALKYRIE C480 Liquid Cooling System|
 |Chassis|VALKYRIE VK01|
 
-*Interlude: exchange the new C480 Liquid Cooling System from JD because its bolt didn't work*
+*Interlude: exchange another new C480 Liquid Cooling System from JD because its original bolt didn't work🙄*
 
-Total cost: 2.7w RMB and u can follow your budget to change items.
+Total cost: 2.7w RMB💰 and u can follow your budget to change items.
 
 To install NVIDIA Drivers of RTX 5080, u can follow this [link](https://medium.com/@ttio2tech_28094/how-to-install-rtx-5090-5080-5070-ti-5070-drivers-on-linux-detailed-guide-d7069c7a0db7)
