@@ -73,7 +73,7 @@ Basic control algorithm list:
 PID✅<br>
 MPC✅（[DR_CAN, bilibili📺](https://www.bilibili.com/video/BV1cL411n7KV)）
 
-## Code
+## Code🧑‍💻
 About debug, follow this. [link](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/debug.md)
 
 ## Equipment Setting🧪
