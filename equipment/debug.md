@@ -27,7 +27,7 @@ CMake Error at CMakeLists.txt:1 (cmake_minimum_required):   CMake 3.24 or higher
 ```
 u can follow this [link](https://blog.csdn.net/loveric/article/details/142791754) to upgrade your CMake version.
 
--I spent 5 days in running dp3 in RTX 5080 and I gave up because of the conflict between python version and cuda version, then when I tested that project in the HPC platform, I met this error: 
+- I spent 5 days in running dp3 in RTX 5080 and I gave up because of the conflict between python version and cuda version, then when I tested that project in the HPC platform, I met this error: 
 ```
 ImportError: libGL.so.1: cannot open shared object file: No such file or directory
 ```
