@@ -20,3 +20,9 @@ then, I tried the following command
 ```
  conda install -c conda-forge libstdcxx-ng
 ```
+
+- Due to my python verison==3.13, there are many packages incompatible with it and I have to compile ```open3d``` by myself, then system had the following error about CMake
+```
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):   CMake 3.24 or higher is required.  You are running version 3.22.1
+```
+u can follow this [link](https://blog.csdn.net/loveric/article/details/142791754) to upgrade your CMake version.
