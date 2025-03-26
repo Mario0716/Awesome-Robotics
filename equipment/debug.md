@@ -36,3 +36,11 @@ Test the following command,
 pip uninstall opencv-python
 pip install opencv-python-headless
 ```
+- If u meet this bug, maybe your hugggingface_hub version is higher than 0.26,
+```
+ImportError: cannot import name 'cached_download' from 'huggingface_hub' (/opt/conda/lib/python3.8/site-packages/huggingface_hub/__init__.py)
+```
+try to downgrade that version following 
+```
+pip install huggingface_hub==0.25.2 
+```
