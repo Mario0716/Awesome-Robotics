@@ -56,6 +56,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
 |CL-DiffPhyCon: Closed-Loop Diffusion Control of Complex Physical Systems|ICLR2025|⌛️Control|
 |OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding|NIPS2023|⌛️3D Representation Learning|
 |Score-based generative modeling through stochastic differential equations|ICLR2021|⌛️Diffusion Model|
+|Differentiable Collision Detection for a Set of Convex Primitives|arxiv|⌛️CBF|
 
 
 ## ROS🤖
