@@ -3,7 +3,7 @@
 Welcome Everyone interested in robotics to Follow, to Suggest and to Push my project!😈
 
 - [Awesome-Robotics](#awesome-robotics)
-  - [Papers][#papers] 
+  - [Papers📝](#papers) 
   - [Waiting List⛑️](#waiting-list️)
   - [ROS🤖](#ros)
   - [Simulator💻](#simulator)
@@ -13,7 +13,7 @@ Welcome Everyone interested in robotics to Follow, to Suggest and to Push my pro
   - [Code🧑‍💻](#code)
   - [Equipment Setting🧪](#equipment-setting)
 
-## Papers
+## Papers📝
 
 | Title📖 | Conference & Journal📅 | Understanding🧠 |Question🤔|
 |:---------|:---------|:---------|:---------|
