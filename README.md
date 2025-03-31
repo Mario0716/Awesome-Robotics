@@ -1,6 +1,6 @@
 # Awesome-Robotics
 
-Welcome Everyone interested in robotics to Follow, to Suggest and to Push my project!😈
+Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Push my project!😈
 
 - [Awesome-Robotics](#awesome-robotics)
   - [Papers📝](#papers) 
