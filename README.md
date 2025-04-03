@@ -79,6 +79,8 @@ I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili
 
 Completion: 10/77 ⌛️
 
+ros2 installation
+
 ## Simulator💻
 Considering the complexity of differnt simulators, choose [MUJOCO](https://github.com/google-deepmind/mujoco) as the first step to help me train/test robot(Galaxea A1 and Franka Research 3). Maybe, [Nvidia Issac Sim for C++/Python](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/introduction/quickstart_index.html) and [Drake for C++/Python](https://drake.mit.edu/) are also good choice. Besides, we can learn about introduction and basic knowledge about MUJOCO from [Prof.Wei Zhang, SUSTech](https://www.bilibili.com/video/BV1wPyfYHEmE).
 
@@ -88,7 +90,7 @@ Personally thinking, [Prof.Hung-Yi Lee's ML courses](https://speech.ee.ntu.edu.t
 ## Robotics💼
  I am learning about basic knowledge of Robotics on [bilibili website](https://www.bilibili.com/video/BV1oa4y1v7TY) *(PS: This is not the offical version)* following [Prof.Pei-Chun Lin, NTU](http://peichunlin.me.ntu.edu.tw/Homepage/greeting.htm).
 
-Introduction✅ $\rightarrow$ Rotation Matrix✅ $\rightarrow$ Transformation Matrix $\rightarrow$ RobotArm Geometry & DH Representation
+Introduction✅ $\rightarrow$ Rotation Matrix✅ $\rightarrow$ Transformation Matrix✅ $\rightarrow$ RobotArm Geometry & DH Representation
 
 ## Control🎳
 Basic control algorithm list:
