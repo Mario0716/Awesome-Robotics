@@ -79,9 +79,9 @@ I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili
 
 Completion: 10/77 ⌛️
 
-ros2 installation. [link](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html)
+ros2 installation(Recomendation: Ubuntu22.04 + ROS2 Humble). [link](https://docs.ros.org/en/humble/Installation/Alternatives/Ubuntu-Development-Setup.html)
 
-ros1 installation. [link](https://wiki.ros.org/cn/noetic/Installation/Ubuntu) ( I install ros1 just for that stupid Galaxea A1 Robot Arm because it only supports ros1... )
+ros1 installation(Recomendation: Ubuntu20.04 + ROS Noetic). [link](https://wiki.ros.org/cn/noetic/Installation/Ubuntu) ( I install ros1 just for that stupid Galaxea A1 Robot Arm because it only supports ros1... )
 
 ## Simulator💻
 Considering the complexity of differnt simulators, choose [MUJOCO](https://github.com/google-deepmind/mujoco) as the first step to help me train/test robot(Galaxea A1 and Franka Research 3). Maybe, [Nvidia Issac Sim for C++/Python](https://docs.isaacsim.omniverse.nvidia.com/4.5.0/introduction/quickstart_index.html) and [Drake for C++/Python](https://drake.mit.edu/) are also good choice. Besides, we can learn about introduction and basic knowledge about MUJOCO from [Prof.Wei Zhang, SUSTech](https://www.bilibili.com/video/BV1wPyfYHEmE).
