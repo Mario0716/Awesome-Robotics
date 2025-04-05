@@ -106,4 +106,4 @@ In this section, I will record some settings that I have ever made mistakes and 
 
 Server:  Nvidia RTX 5080 + AMD R9 7950x, and list of computer component details is here. [link](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/server_details.md)<br>
 Vision:  Intel RealSense Depth Camera D435i [Installation on Ubuntu](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/d435i.md)<br>
-Robot:   Galaxea A1 and Franka Research 3 (coming soon...)
+Robot:   Galaxea A1(Only ROS1, Not Recomandation) and Franka Research 3 (coming soon...)
