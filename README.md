@@ -51,7 +51,8 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 |Scaling Proprioceptive-Visual Learning with Heterogeneous Pre-trained Transformers<br>[pdf](https://openreview.net/pdf?id=Pf7kdIjHRf) [Project Page](https://liruiw.github.io/hpt/)|NIPS2024 - Embodiment||我是从b站看到一个up主在讲这篇work，我也找来看了看。据说是Kaiming He的第一篇具身智能工作💼|
 |Elastic Motion Policy: An Adaptive Dynamical System for Robust and Efficient One-Shot Imitation Learning<br>[pdf](https://arxiv.org/abs/2503.08029) [project page](https://elastic-motion-policy.github.io/EMP/)|arxiv2025 - Policy Learning|||
 |Task Generalization with Stability Guarantees via Elastic Dynamical System Motion Policies<br>[pdf](https://openreview.net/forum?id=8scj3Y0RLq) [project page](https://sites.google.com/view/elastic-ds)|CoRL2023 - DS|||
-|<br>[pdf](https://test-time-training.github.io/video-dit/assets/ttt_cvpr_2025.pdf)|CVPR2025-Generation Model|||
+|One-Minute Video Generation with Test-Time Training <br>[pdf](https://test-time-training.github.io/video-dit/assets/ttt_cvpr_2025.pdf)|CVPR2025-Generation Model|作者在原预训练的Diffusion Transformer的架构中加入了一个TTT block，结构很简单只有||
+|Image As Set of Points<br>[pdf](https://openreview.net/forum?id=awnvqZja69)|ICLR2023-Foundation Model|||
 
 ## Waiting List⛑️
 |Title📖    |Year🧓 |Status🪣  |
