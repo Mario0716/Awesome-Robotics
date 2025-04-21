@@ -121,7 +121,7 @@ About debug, follow this. [link](https://github.com/Mario0716/Awesome-Robotics/b
 
 In this section, I will record some settings that I have ever made mistakes and validated.
 
-Server:  Nvidia RTX 5080 + AMD R9 7950x, and list of computer component details is here. [link](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/server_details.md)<br>
-Vision:  Intel RealSense Depth Camera D435i [Installation on Ubuntu](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/d435i.md) & iPhone 12Pro(or higher version) with LiDAR <br>
-Robot:   Galaxea A1 (only support ROS1, Not Recomandation) and Franka Research 3 (coming soon...)<br>
-Data Collection: UMI (3D Print + GoPro) [Document](https://docs.google.com/document/d/1TPYwV9sNVPAi0ZlAupDMkXZ4CA1hsZx7YDMSmcEy6EU/edit?tab=t.0#heading=h.5k5vwx2iqjqg) is here. Very Excellent Job!!!🎈
+Server💁:  Nvidia RTX 5080 + AMD R9 7950x, and list of computer component details is here. [link](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/server_details.md)<br>
+Vision👀:  Intel RealSense Depth Camera D435i [Installation on Ubuntu](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/d435i.md) & iPhone 12Pro(or higher version) with LiDAR <br>
+Robot⚙️:   Galaxea A1 (only support ROS1, Not Recomandation) and Franka Research 3 (coming soon...)<br>
+Data Collection📊: UMI (3D Print + GoPro) [Document](https://docs.google.com/document/d/1TPYwV9sNVPAi0ZlAupDMkXZ4CA1hsZx7YDMSmcEy6EU/edit?tab=t.0#heading=h.5k5vwx2iqjqg) is here. Very Excellent Job!!!🎈
