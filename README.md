@@ -60,24 +60,16 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 ## Waiting List⛑️
 |Title📖    |Year🧓 |Status🪣  |
 |:---------|:---------|:---------|
-|RLBench: The Robot Learning Benchmark & Learning Environment|ICRA2020|⌛️Robo Benchmark(Next One...)➡️03.07✅|
-|Rvt-2: Learning precise manipulation from few demonstrations|RSS2024|🙏Manipulation➡️03.05✅|
 |3d gaussian splatting for real-time radiance field rendering|2023|🙏Generation|
 |Robodreamer: Learning compositional world models for robot imagination|2024|🙏World Model|
-|Instant Policy: In-Context Imitation Learning via Graph Diffusion|ICLR2025 Oral|⌛️Imitation Learning➡️03.07✅|
-|Open X-Embodiment: Robotic Learning Datasets and RT-X Models|Dataset2023|⌛Multi-Task Multi-Robot Datasets➡️03.07✅|
-|VQ-BeT: Behavior generation with latent actions|ICML2024|⌛️Policy Leaning➡️03.05✅|
 |UMI: Universal Manipulation Interface: In-The-Wild Robot Teaching Without In-The-Wild Robots|RSS2024|⌛️Data Collection|
 |ALOHA: Learning Fine Grained Bimanual Manipulation with Low-Cost Hardware|RSS2023|⌛️Policy Learning & Data Collecyion|
 |Humanoid Locamotion as Next Prediction🌟|NIPS2024 Spotlight|⌛️humanoid Contorl|
-|Safe Bayesian Optimization for the Control of High-Dimensional Embodied Systems|CoRL2024|⌛️Controller & Bayesian➡️03.10✅|
 |On safety in safe bayesian optimization|TMLR2024|⌛️Bayesian Optimization|
 |Adaptive and safe bayesian optimization in high dimensions via one-dimensional subspace|ICML2019|⌛️Bayesian Optimization|
 |Meta-learning priors for safe bayesian optimization|CoRL2022|⌛️Bayesian Optimization|
 |Relaxing the additivity constraints in decentralized no-regret high-dimensional bayesian optimization|ICLR2024|⌛️Bayesian Optimization|
-|RL-based adaptive controller for high precision reaching in a soft robot arm|T-RO2024|⌛️Controller➡️03.12 video✅|
 |Reaching the limit in autonomous racing: Optimal control versus reinforcement learning|Science Robotics 2023|⌛️Control & Optimization|
-|CL-DiffPhyCon: Closed-Loop Diffusion Control of Complex Physical Systems|ICLR2025|⌛️Control➡️✅|
 |OpenShape: Scaling Up 3D Shape Representation Towards Open-World Understanding|NIPS2023|⌛️3D Representation Learning|
 |Score-based generative modeling through stochastic differential equations|ICLR2021|⌛️Diffusion Model|
 |Differentiable Collision Detection for a Set of Convex Primitives|arxiv|⌛️CBF|
