@@ -56,6 +56,7 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 |Flow Matching for Generative Modeling|NIPS2024 tutorial - Generative Model|||
 | $\pi_0$ A Vision-Language-Action Flow Model for General Robot Control<br>[pdf](https://www.physicalintelligence.company/download/pi0.pdf) [project page](https://www.physicalintelligence.company/blog/pi0)|arxiv2024-Policy Learning||（据NIPS2024 Tutorial: Flow Matching for Generative Modeling说）第一篇将flowing matching结合到robot上的工作，于是我这种二半吊子闻着味就来了...|
 |Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions<br>[pdf](https://arxiv.org/pdf/2504.04603) [project page](https://paumarquez.github.io/diffusion-ampc/) |RSS2025-Policy Learning|||
+|Policy Agnostic RL:Fine-Tuning Multiple Policy Classes with Actor-Critic RL|ICLR2025 Workshop - Policy Learning|||
 
 ## Waiting List⛑️
 |Title📖    |Year🧓 |Status🪣  |
