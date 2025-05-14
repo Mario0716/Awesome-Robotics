@@ -57,7 +57,7 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 | $\pi_0$ A Vision-Language-Action Flow Model for General Robot Control<br>[pdf](https://www.physicalintelligence.company/download/pi0.pdf) [project page](https://www.physicalintelligence.company/blog/pi0)|arxiv2024-Policy Learning||（据NIPS2024 Tutorial: Flow Matching for Generative Modeling说）第一篇将flowing matching结合到robot上的工作，于是我这种二半吊子闻着味就来了...|
 |Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions<br>[pdf](https://arxiv.org/pdf/2504.04603) [project page](https://paumarquez.github.io/diffusion-ampc/) |RSS2025-Policy Learning|||
 |Policy Agnostic RL:Fine-Tuning Multiple Policy Classes with Actor-Critic RL<br>[pdf](https://arxiv.org/abs/2412.06685) [project page](https://policyagnosticrl.github.io/)|ICLR2025 Workshop - Policy Learning|||
-|3D-VLA:A 3D Vision-Language-Action Generative World Model|ICML2024-NLP|这篇文章通过引入交互标记（如目标物，位置和动作token），帮助模型理解users给出的任务内容和要求，其次是训练了RGBD和Pointcloud的diffusion model，用于生成未来帧（接近和到达目标状态的图像点云信息）||
+|3D-VLA:A 3D Vision-Language-Action Generative World Model|ICML2024-NLP|这篇文章通过引入交互标记（如目标物，位置和动作token），形如“a chocolate bar\[loc tokens\] on the table”，帮助模型理解users给出的任务内容和要求，其次是训练了RGBD和Pointcloud的diffusion model，用于生成未来帧（接近和到达目标状态的图像点云信息）||
 
 ## Waiting List⛑️
 |Title📖    |Year🧓 |Status🪣  |
