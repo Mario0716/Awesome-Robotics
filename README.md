@@ -5,6 +5,7 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 - [Awesome-Robotics](#awesome-robotics)
   - [Papers📝](#papers) 
   - [Waiting List⛑️](#waiting-list️)
+  - [Report🎤](#report)
   - [ROS🤖](#ros)
   - [Simulator💻](#simulator)
   - [Machine Learning \& Deep Learning 🏰](#machine-learning--deep-learning-)
@@ -76,6 +77,10 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 |Score-based generative modeling through stochastic differential equations|ICLR2021|⌛️Diffusion Model|
 |Differentiable Collision Detection for a Set of Convex Primitives|arxiv|⌛️CBF|
 
+## Report🎤
+|Title📖   |Speaker🔈 |Main idea|
+|:---------|:---------|:---------|
+|破解具身智能中的数据难题 [bilibili](https://www.bilibili.com/video/BV1diEjzqE9Y/?spm_id_from=333.337.search-card.all.click&vd_source=51baee34b45b10ae33bf59e4047cb767)|[Prof.Huazhe Xu, THU IIS](http://hxu.rocks)||
 
 ## ROS🤖
 I am learning about Robot Operating System(ROS) from [AJie](https://www.bilibili.com/video/BV1BP4y1o7pw) on Bilibili website.
