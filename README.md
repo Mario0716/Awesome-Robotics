@@ -59,6 +59,7 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 |Diffusion-Based Approximate MPC: Fast and Consistent Imitation of Multi-Modal Action Distributions<br>[pdf](https://arxiv.org/pdf/2504.04603) [project page](https://paumarquez.github.io/diffusion-ampc/) |RSS2025-Policy Learning|||
 |Policy Agnostic RL:Fine-Tuning Multiple Policy Classes with Actor-Critic RL<br>[pdf](https://arxiv.org/abs/2412.06685) [project page](https://policyagnosticrl.github.io/)|ICLR2025 Workshop - Policy Learning|||
 |3D-VLA:A 3D Vision-Language-Action Generative World Model<br>[pdf](https://arxiv.org/pdf/2403.09631) [project page](https://vis-www.cs.umass.edu/3dvla) [code](https://github.com/UMass-Embodied-AGI/3D-VLA?tab=readme-ov-file)|ICML2024-NLP|这篇文章通过引入交互标记（如目标物，位置和动作token），形如“a chocolate bar\[loc tokens\] on the table”，帮助模型理解users给出的任务内容和要求，其次是训练了RGBD和Pointcloud的diffusion model，用于生成未来帧（接近和到达目标状态的图像点云信息）|在训练生成模型这个工作中，其实对齐工作是个很大的难题，此外就是生成的图像会出现目标物形变，环境形变等失真问题，这个对于3DVLA的预训练带来了很大的困难|
+|scaling up masked diffusion models on texts|ICLR2025 - NLP|||
 
 ## Waiting List⛑️
 |Title📖    |Year🧓 |Status🪣  |
