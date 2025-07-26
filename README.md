@@ -131,5 +131,5 @@ In this section, I will record some settings that I have ever made mistakes and 
 
 Server💁:  Nvidia RTX 5080 + AMD R9 7950x, and list of computer component details is here. [link](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/server_details.md)<br>
 Vision👀:  Intel RealSense Depth Camera D435i [Installation on Ubuntu](https://github.com/Mario0716/Awesome-Robotics/blob/main/equipment/d435i.md) & iPhone 12 Pro (or higher version) with LiDAR <br>
-Robot⚙️:   Galaxea A1 (only support ROS1, Not Recomendation), Piper(Cheap but easy to use) and Franka Research 3 (Lots of open sources, Great!🤗) <br>
+Robot⚙️:   Galaxea A1 [Settings](https://github.com/userguide-galaxea/Product_User_Guide/tree/galaxea/main/docs/zh/Guide/A1) (only support ROS1, Not Recomendation), Piper [Settings]() (Cheap but easy to use) and Franka Research 3 [Settings](https://www.franka.cn/FCI/overview.html) (Lots of open sources, Great!🤗) <br>
 Data Collection📊: UMI (3D Print + GoPro12 Black + UGREEN 4K60Hz Video Capture Card) [Document](https://docs.google.com/document/d/1TPYwV9sNVPAi0ZlAupDMkXZ4CA1hsZx7YDMSmcEy6EU/edit?tab=t.0#heading=h.5k5vwx2iqjqg) is here. Very Excellent Job!!!🎈
