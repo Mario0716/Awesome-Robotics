@@ -86,7 +86,7 @@ Hi~👋 Welcome Everyone interested in robotics to Follow, to Suggest and to Pus
 |Title📖   |Speaker🔈 |Main idea|
 |:---------|:---------|:---------|
 |破解具身智能中的数据难题 [bilibili](https://www.bilibili.com/video/BV1diEjzqE9Y/?spm_id_from=333.337.search-card.all.click&vd_source=51baee34b45b10ae33bf59e4047cb767)|[Prof.Huazhe Xu, THU IIIS](http://hxu.rocks)|许老师从 让数据表述的信息更丰富 以及 采集获取数据的方式更方便、成本更低 两个角度出发尝试着解决当前Embodied AI的数据问题，并讲述了自己以往的工作DOGlove、RDP和DemoGen|
-|LLaDA:大语言模型新范式 [bilibili](https://www.bilibili.com/video/BV1APG2znE2p/?spm_id_from=333.1387.favlist.content.click&vd_source=51baee34b45b10ae33bf59e4047cb767)|[Prof.Chongxuan Li, RUC Gaoling School of AI](https://zhenxuan00.github.io)||
+|LLaDA:大语言模型新范式 [bilibili](https://www.bilibili.com/video/BV1APG2znE2p/?spm_id_from=333.1387.favlist.content.click&vd_source=51baee34b45b10ae33bf59e4047cb767)|[Prof.Chongxuan Li, RUC Gaoling School of AI](https://zhenxuan00.github.io)|李老师以自回归可能不是走向AGI的唯一途径为研究动机，提出了扩散大语言模型LLaDA全新范式，用扩散过程生成连贯、流利的语言|
 
 ## ROS🤖
 *"First Sharpen the Tools before doing anything well"*
